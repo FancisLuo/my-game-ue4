@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Mystery.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D9D22C87-D8CB-4C79-96F0-3C5A06C9A5B4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Mystery.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MysteryEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{4D7CC830-C3C5-499C-ADEC-297FF70289EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Mystery">
+      <UniqueIdentifier>{0B7A79F5-E09F-422A-A983-0420E92228E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Mystery\Mystery.Build.cs">
+      <Filter>Source\Mystery</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Mystery\Mystery.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\Mystery.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mystery\MysteryAICharacter.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\MysteryAICharacter.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mystery\MysteryCharacter.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\MysteryCharacter.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mystery\MysteryCharacterController.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\MysteryCharacterController.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mystery\MysteryGameInstance.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\MysteryGameInstance.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mystery\MysteryGameModeBase.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\MysteryGameModeBase.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mystery\MysteryGameStateBase.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\MysteryGameStateBase.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mystery\MysteryManAnimInstance.cpp">
+      <Filter>Source\Mystery</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mystery\MysteryManAnimInstance.h">
+      <Filter>Source\Mystery</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

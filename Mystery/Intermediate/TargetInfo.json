@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Mystery",
+			"Path": "D:\\Workspace\\UnrealSpace\\my-game\\Mystery\\Source\\Mystery.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MysteryEditor",
+			"Path": "D:\\Workspace\\UnrealSpace\\my-game\\Mystery\\Source\\MysteryEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Workspace\\UnrealSpace\\my-game\\Mystery\\Source\\Mystery\\Mystery.Build.cs",
+		"D:\\Workspace\\UnrealSpace\\my-game\\Mystery\\Source\\Mystery.Target.cs",
+		"D:\\Workspace\\UnrealSpace\\my-game\\Mystery\\Source\\MysteryEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
